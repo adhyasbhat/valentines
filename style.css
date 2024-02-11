@@ -12,25 +12,27 @@ body {
     align-items: center;
     height: 100vh;
 }
+.w-2{
+    display: none;
+}
 .container, .container2 {
     text-align: center;
 }
 h1 {
     font-size: 3rem;
     font-weight: 700;
-    color: #dc3545;
+    color: black;
 }
 span {
-    color: #007bff;
+    color: #dc3545;
 }
-.btn {
+.btnn {
     font-size: 1.5rem;
     font-weight: 700;
-    padding: 1rem 2rem;
-    margin: 1rem;
     border-radius: 10px;
     cursor: pointer;
-    height: 50%;
+    height: 6rem;
+    width: 10rem
 }
 .yess {
     background-color: #28a745;
